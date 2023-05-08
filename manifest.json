@@ -1,0 +1,15 @@
+{
+    "name": "Otomoto - Podsumowanie",
+    "version": "1.0.0",
+    "description": "Rozszerzenie pozwalające wygenerować podsumowanie ofert na otomoto.",
+    "manifest_version": 3,
+    "author": "Bogusz Krzyżanowski",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Otomoto - Podsumowanie"
+    },
+    "permissions": ["scripting", "activeTab"]
+
+
+
+}

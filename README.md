@@ -1,0 +1,1 @@
+otomoto-summary-chrome-ext
